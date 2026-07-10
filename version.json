@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.29.0",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.29.0/FlightManager-v1.29.0.apk",
-  "notes": " - **Проверка и установка обновлений прямо в приложении**: Настройки → «Проверить обновления». Если есть новая версия — приложение само скачает и предложит установить (системный экран подтверждения). Больше не нужно вру"
+  "versionCode": 43,
+  "versionName": "1.30.0",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.30.0/FlightManager-v1.30.0.apk",
+  "notes": "\n- Кнопка **«Поделиться приложением»** в Настройках → «О разработчике»: отправить коллеге ссылку на установку в один тап."
 }

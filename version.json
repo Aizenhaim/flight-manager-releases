@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.35.0",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.35.0/FlightManager-v1.35.0.apk",
-  "notes": "\n- Исправлено: «взлетел» / «приземлился» теперь уходит близким и когда вы **правите** фактическое время (раньше — только при штампе по пустому полю)."
+  "versionCode": 49,
+  "versionName": "1.36.0",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.36.0/FlightManager-v1.36.0.apk",
+  "notes": "\n- **Номер рейса** теперь можно **добавлять, менять, удалять и двигать** списком — как «Тип ВС» (тап по полю «Номер»). Выбор номера подтягивает маршрут из истории, если летали.\n- Близкие получают **«🗓 Ближайший рейс»** сразу, как только вы заполнили рейс (маршрут, дата, время) — не дожидаясь вылета."
 }

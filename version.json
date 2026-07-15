@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.39.0",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.39.0/FlightManager-v1.39.0.apk",
-  "notes": "\n- Вместе с сообщениями близким теперь передаётся маршрут и время вылета/прилёта — в приложении FM Family во время полёта показывается **анимация: самолёт летит по маршруту** (сколько уже в пути и сколько осталось)."
+  "versionCode": 53,
+  "versionName": "1.40.0",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.40.0/FlightManager-v1.40.0.apk",
+  "notes": "\n- Исправлено: «🗓 Ближайший рейс» больше не отправляется близким повторно после перезапуска приложения, если данные рейса не менялись."
 }

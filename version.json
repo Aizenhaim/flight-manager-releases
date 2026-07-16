@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.40.0",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.40.0/FlightManager-v1.40.0.apk",
-  "notes": "\n- Исправлено: «🗓 Ближайший рейс» больше не отправляется близким повторно после перезапуска приложения, если данные рейса не менялись."
+  "versionCode": 54,
+  "versionName": "1.41.0",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.41.0/FlightManager-v1.41.0.apk",
+  "notes": "Релиз v1.41.0"
 }

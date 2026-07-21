@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.48.0",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.48.0/FlightManager-v1.48.0.apk",
-  "notes": "Релиз v1.48.0"
+  "versionCode": 62,
+  "versionName": "1.49.0",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/v1.49.0/FlightManager-v1.49.0.apk",
+  "notes": "\n- Новый визуальный стиль по всему приложению: типографика, карточки с настоящей глубиной (тень + tonal elevation), единая шкала отступов и скруглений, более плавные переходы между вкладками и нажатия штампов времени. Логика и данные не менялись.\n- Обновлены Android-зависимости (Compose, AGP, compileSdk 36)."
 }

@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-v1.1.0/FlightManager2-v1.1.0.apk",
-  "notes": "\n- Новый стиль: красная шапка `#E30613`, карточки-секции, кнопки-пилюли, тёмный фон.\n- Форма разбита на карточки (Маршрут, Рейс, Экипаж, Фактическое время, Пассажиры, Приёмка питания) — меньше громоздкости.\n- Аэропорты показываются с кодом ИАТА: «Москва (SVO)».\n- У метки UTC — разница часовых поясов и местное время прилёта.\n- Типы ВС: полное управление списком (добавить / изменить / удалить), переиспользуемая форма.\n- Пассажирская загрузка: колонки Y · W · C · TTL (итог = Y+W+C), TTL красным."
+  "versionCode": 3,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-v1.1.1/FlightManager2-v1.1.1.apk",
+  "notes": "Релиз v1.1.1"
 }

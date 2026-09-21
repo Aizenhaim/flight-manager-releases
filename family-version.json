@@ -1,6 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "0.50.1",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/family-v0.50.1/FMFamily-v0.50.1.apk",
+  "versionCode": 52,
+  "versionName": "0.50.2",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/family-v0.50.2/FMFamily-v0.50.2.apk",
+  "sha256": "076dd898c913a1261775f45cd371613cbfe86b65f44f849e56a9e161476ebe70",
   "notes": "Обновление FM Family"
 }

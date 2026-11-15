@@ -1,9 +1,9 @@
 {
-  "versionCode": 63,
-  "versionName": "1.11.1-preview5",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview5/FM2-test-v1.11.1-preview5.apk",
-  "sha256": "e83dc896ea44203cd4d1f620a55ca8e3aba5d2105e7cad0efc4a3896665b4250",
-  "notes": "Только для Boeing 747: при изменении Y и спецпитания в бланке эти значения автоматически заполняют Питание → Сколько загружено. Изменение типа на 747 также подставляет текущие значения. Салоны и доли сохраняются, ручная корректировка доступна. Содержит прежние исправления документов, базы и проверки подписи.",
+  "versionCode": 64,
+  "versionName": "1.11.1-preview6",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview6/FM2-test-v1.11.1-preview6.apk",
+  "sha256": "b59f9814f687a82ffe90abd2f8c2bce7ba5e7f4fb3d608ec399741b8fab9de19",
+  "notes": "Исправлено заполнение питания Boeing 747 по кнопке сохранения бланка: текущие Y и спецпитание переносятся даже без изменения чисел. Сохранение дожидается записи и сообщает, что питание 747 обновлено. Поддержаны неразрывные пробелы в названии типа; добавлена диагностика MEALS_AUTOFILL без чисел загрузки.",
   "applicationId": "ru.flightmanager.two.debug",
   "channel": "preview"
 }

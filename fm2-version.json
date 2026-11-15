@@ -1,7 +1,9 @@
 {
-  "versionCode": 58,
-  "versionName": "1.11.0",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-v1.11.0/FlightManager2-v1.11.0.apk",
-  "sha256": "b4949f4d51b1f832cc5e46162065f0e63203797070e16174480c9076c9895cf1",
-  "notes": "Исправлено отображение БП, когда пилоты ещё не назначены. Составы каждого перелёта сохраняются отдельно. Добавлены полные резервные копии, защита подписанных актов, биометрическая блокировка и исправления погоды и FM Family."
+  "versionCode": 65,
+  "versionName": "1.11.1",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-v1.11.1/FlightManager2-v1.11.1.apk",
+  "sha256": "9006f9b1b3803f48de670f4eb5a552d15095acf883cd3f5712d2b47736a0ff7f",
+  "notes": "Boeing 747: Y и спецпитание из бланка заполняют «Питание → Сколько загружено», в том числе по кнопке сохранения уже введённых значений. Доли и салоны сохраняются. Открытие документа отделено от подтверждения ознакомления. Добавлены просмотр копии перед восстановлением и проверки сохранности базы и обновлений.",
+  "applicationId": "ru.flightmanager.two",
+  "channel": "stable"
 }

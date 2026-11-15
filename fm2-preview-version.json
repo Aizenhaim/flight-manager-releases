@@ -1,9 +1,9 @@
 {
-  "versionCode": 62,
-  "versionName": "1.11.1-preview4",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview4/FM2-test-v1.11.1-preview4.apk",
-  "sha256": "eb0bbb001c304f53f783a3006dbef126af1a111686d36ef2b29d261ac7f26914",
-  "notes": "Уточнено чтение подписи APK на Android: современные и совместимые поля сертификата, отдельная ошибка отсутствующих данных, диагностическое событие UPDATE_SIGNATURE. Проверки пакета, версии, SHA-256 и сертификата сохранены. Содержит изменения документов и проверки баз 2–17.",
+  "versionCode": 63,
+  "versionName": "1.11.1-preview5",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview5/FM2-test-v1.11.1-preview5.apk",
+  "sha256": "e83dc896ea44203cd4d1f620a55ca8e3aba5d2105e7cad0efc4a3896665b4250",
+  "notes": "Только для Boeing 747: при изменении Y и спецпитания в бланке эти значения автоматически заполняют Питание → Сколько загружено. Изменение типа на 747 также подставляет текущие значения. Салоны и доли сохраняются, ручная корректировка доступна. Содержит прежние исправления документов, базы и проверки подписи.",
   "applicationId": "ru.flightmanager.two.debug",
   "channel": "preview"
 }

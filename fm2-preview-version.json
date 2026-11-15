@@ -1,9 +1,9 @@
 {
-  "versionCode": 61,
-  "versionName": "1.11.1-preview3",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview3/FM2-test-v1.11.1-preview3.apk",
-  "sha256": "a0b020287a2522fe636b22cbcb6a91f15592dbd0c1634e07857cfd5830b80a76",
-  "notes": "Документы открываются без автоматического подтверждения ознакомления. Подтверждение — отдельное действие. Добавлены экспорт схем Room и проверки сохранности данных при обновлении баз версий 2–17. Название тестового приложения: FM2 — Тест.",
+  "versionCode": 62,
+  "versionName": "1.11.1-preview4",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview4/FM2-test-v1.11.1-preview4.apk",
+  "sha256": "eb0bbb001c304f53f783a3006dbef126af1a111686d36ef2b29d261ac7f26914",
+  "notes": "Уточнено чтение подписи APK на Android: современные и совместимые поля сертификата, отдельная ошибка отсутствующих данных, диагностическое событие UPDATE_SIGNATURE. Проверки пакета, версии, SHA-256 и сертификата сохранены. Содержит изменения документов и проверки баз 2–17.",
   "applicationId": "ru.flightmanager.two.debug",
   "channel": "preview"
 }

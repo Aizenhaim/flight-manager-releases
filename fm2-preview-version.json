@@ -1,9 +1,9 @@
 {
-  "versionCode": 64,
-  "versionName": "1.11.1-preview6",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview6/FM2-test-v1.11.1-preview6.apk",
-  "sha256": "b59f9814f687a82ffe90abd2f8c2bce7ba5e7f4fb3d608ec399741b8fab9de19",
-  "notes": "Исправлено заполнение питания Boeing 747 по кнопке сохранения бланка: текущие Y и спецпитание переносятся даже без изменения чисел. Сохранение дожидается записи и сообщает, что питание 747 обновлено. Поддержаны неразрывные пробелы в названии типа; добавлена диагностика MEALS_AUTOFILL без чисел загрузки.",
+  "versionCode": 66,
+  "versionName": "1.11.1-preview7",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview7/FM2-test-v1.11.1-preview7.apk",
+  "sha256": "11970c295da75c9b5f56570a2c1233045aed93abbd98a9c3fcebb44b3ef39572",
+  "notes": "Вверху всех основных экранов добавлена заметная плавно мигающая надпись «ТЕСТОВАЯ ВЕРСИЯ». Она всегда остаётся читаемой. Перенос питания Boeing 747 сохранён; основной FM2 обновляется отдельным каналом.",
   "applicationId": "ru.flightmanager.two.debug",
   "channel": "preview"
 }

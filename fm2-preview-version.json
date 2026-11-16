@@ -1,9 +1,9 @@
 {
-  "versionCode": 66,
-  "versionName": "1.11.1-preview7",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview7/FM2-test-v1.11.1-preview7.apk",
-  "sha256": "11970c295da75c9b5f56570a2c1233045aed93abbd98a9c3fcebb44b3ef39572",
-  "notes": "Вверху всех основных экранов добавлена заметная плавно мигающая надпись «ТЕСТОВАЯ ВЕРСИЯ». Она всегда остаётся читаемой. Перенос питания Boeing 747 сохранён; основной FM2 обновляется отдельным каналом.",
+  "versionCode": 67,
+  "versionName": "1.11.1-preview8",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview8/FM2-test-v1.11.1-preview8.apk",
+  "sha256": "6994bccf33bc115a0084137e1e21ceac1e39482ca21be03e40ef19931e187378",
+  "notes": "Добавлен пункт «Заказать аэроэкспресс» в меню бланка. Почтовое приложение открывается с получателем, темой и текстом из профиля и выбранного наряда. Отправку подтверждает пользователь в почте. Тестовая метка и прежние доработки сохранены.",
   "applicationId": "ru.flightmanager.two.debug",
   "channel": "preview"
 }

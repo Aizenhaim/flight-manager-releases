@@ -1,9 +1,9 @@
 {
-  "versionCode": 67,
-  "versionName": "1.11.1-preview8",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview8/FM2-test-v1.11.1-preview8.apk",
-  "sha256": "6994bccf33bc115a0084137e1e21ceac1e39482ca21be03e40ef19931e187378",
-  "notes": "Добавлен пункт «Заказать аэроэкспресс» в меню бланка. Почтовое приложение открывается с получателем, темой и текстом из профиля и выбранного наряда. Отправку подтверждает пользователь в почте. Тестовая метка и прежние доработки сохранены.",
+  "versionCode": 68,
+  "versionName": "1.11.1-preview9",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview9/FM2-test-v1.11.1-preview9.apk",
+  "sha256": "2957311471176bc52e7993066d8bcd24493ee7a84dae131b7b67d1e2d5dca7f5",
+  "notes": "Обновлена панель бланка: OpenSky, промежуток, фирменный значок Аэроэкспресса, затем остальные кнопки. Кнопки получили отдельную полосу и области нажатия 48dp; на узком экране переносятся. Подготовка письма сохранена.",
   "applicationId": "ru.flightmanager.two.debug",
   "channel": "preview"
 }

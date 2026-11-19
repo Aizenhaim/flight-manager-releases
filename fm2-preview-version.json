@@ -1,9 +1,9 @@
 {
-  "versionCode": 69,
-  "versionName": "1.11.1-preview10",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview10/FM2-test-v1.11.1-preview10.apk",
-  "sha256": "69f3afb85433fbea3b495e7d4cbf058b6ae99aa174bda8b8ceb0b7c7fc131d41",
-  "notes": "Кнопки бланка возвращены на одну линию с заголовком. Добавлены цветные значки экипажа, документов, обучения, календаря и сохранения. Порядок OpenSky → промежуток → Аэроэкспресс сохранён. При нехватке ширины строка значков сдвигается вбок.",
+  "versionCode": 70,
+  "versionName": "1.11.1-preview11",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-preview-v1.11.1-preview11/FM2-test-v1.11.1-preview11.apk",
+  "sha256": "8f5c626e846fc6d131c48667dce79e27aa47368ba0ca97dd2625d423ae3a27e2",
+  "notes": "Значки в шапке прижаты к правому краю. Промежуток OpenSky — Аэроэкспресс сохранён. Новый цветной значок экипажа — человек в авиационной форме. Работа с часами и основной релиз не меняются.",
   "applicationId": "ru.flightmanager.two.debug",
   "channel": "preview"
 }

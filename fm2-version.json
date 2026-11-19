@@ -1,9 +1,9 @@
 {
-  "versionCode": 65,
-  "versionName": "1.11.1",
-  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-v1.11.1/FlightManager2-v1.11.1.apk",
-  "sha256": "9006f9b1b3803f48de670f4eb5a552d15095acf883cd3f5712d2b47736a0ff7f",
-  "notes": "Boeing 747: Y и спецпитание из бланка заполняют «Питание → Сколько загружено», в том числе по кнопке сохранения уже введённых значений. Доли и салоны сохраняются. Открытие документа отделено от подтверждения ознакомления. Добавлены просмотр копии перед восстановлением и проверки сохранности базы и обновлений.",
+  "versionCode": 71,
+  "versionName": "1.11.2",
+  "apkUrl": "https://github.com/Aizenhaim/flight-manager-releases/releases/download/fm2-v1.11.2/FlightManager2-v1.11.2.apk",
+  "sha256": "3a970fc63e972f90f1137a15f7ee59284c34a78feab05f94f0b544282e550151",
+  "notes": "Добавлен заказ аэроэкспресса через почту: получатель, тема и текст заполняются из выбранного наряда и профиля. Компактные цветные значки бланка выровнены вправо; промежуток OpenSky — Аэроэкспресс сохранён, значок экипажа обновлён.",
   "applicationId": "ru.flightmanager.two",
   "channel": "stable"
 }
